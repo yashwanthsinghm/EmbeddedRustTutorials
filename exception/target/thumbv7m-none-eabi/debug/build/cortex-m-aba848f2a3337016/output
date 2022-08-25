@@ -1,0 +1,4 @@
+cargo:rustc-link-lib=static=cortex-m
+cargo:rustc-link-search=/Users/yashwanthsingh/Yash/Projects/embedded_rust2/exception/target/thumbv7m-none-eabi/debug/build/cortex-m-aba848f2a3337016/out
+cargo:rustc-cfg=cortex_m
+cargo:rustc-cfg=armv7m
