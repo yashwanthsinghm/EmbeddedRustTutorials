@@ -1,7 +1,0 @@
-cargo:rustc-link-lib=static=cortex-m-rt
-cargo:rerun-if-changed=bin/thumbv7em-none-eabihf.a
-cargo:rustc-cfg=cortex_m
-cargo:rustc-cfg=armv7m
-cargo:rustc-link-search=/Users/yashwanthsingh/Yash/Projects/embedded_rust2/exception/target/thumbv7em-none-eabihf/debug/build/cortex-m-rt-0a8d170b7df4a055/out
-cargo:rerun-if-changed=build.rs
-cargo:rerun-if-changed=link.x.in

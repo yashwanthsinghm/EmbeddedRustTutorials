@@ -1,3 +1,0 @@
-cargo:rustc-link-search=/Users/yashwanthsingh/Yash/Projects/embedded_rust2/TimerInterrupt/target/debug/build/stm32f4-0a370f9fec880bbf/out
-cargo:rerun-if-changed=src/stm32f411/device.x
-cargo:rerun-if-changed=build.rs
